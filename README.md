@@ -37,5 +37,6 @@ Currently working on [arkastech](https://arkastech.it/) and [dplace](https://dpl
 </div>
 
 ### 🌍 Find me on the web:
-- You can find my full portfolio (Italian) on [Arkastech](https://arkastech.it/portfolio/)
+- You can find my web portfolio (Italian) on [Arkastech](https://arkastech.it/portfolio/)
+- You can find my software portfolio (Italian) on [Arkastech](https://arkastech.it/portfolio-software/)
 - You can find me on [Twitter](https://twitter.com/domm_it)
