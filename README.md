@@ -7,30 +7,30 @@ Currently working on [arkastech](https://arkastech.it/) and [dplace](https://dpl
 
 ### 🧰 My favorite tools:
 <div style="display:flex">
-    <img alt="Sublime Text" width="26px" style="margin-right:20px;" aling="left" src="assets/img/sublimetext.png" />
-    <img alt="Html 5" width="26px" style="margin-right:20px;" aling="left" src="assets/img/html.png" />
-    <img alt="CSS" width="26px" style="margin-right:20px;" aling="left" src="assets/img/css.png" />
-    <img alt="JS" width="26px" style="margin-right:20px;" aling="left" src="assets/img/js.png" />
-    <img alt="Bootstrap" width="26px" style="margin-right:20px;" aling="left" src="assets/img/bootstrap.png" />
-    <img alt="jQuery" width="26px" style="margin-right:20px;" aling="left" src="assets/img/jquery.png" />
-    <img alt="PHP" width="26px" style="margin-right:20px;" aling="left" src="assets/img/php.png" />
-    <img alt="MySql" width="26px" style="margin-right:20px;" aling="left" src="assets/img/mysql.png" />
+    <img alt="Sublime Text" style="margin-right:20px; width: 50px" src="assets/img/sublimetext.png" />
+    <img alt="Html 5" style="margin-right:20px; width: 50px" src="assets/img/html.png" />
+    <img alt="CSS" style="margin-right:20px; width: 50px" src="assets/img/css.png" />
+    <img alt="JS" style="margin-right:20px; width: 50px" src="assets/img/js.png" />
+    <img alt="Bootstrap" style="margin-right:20px; width: 50px" src="assets/img/bootstrap.png" />
+    <img alt="jQuery" style="margin-right:20px; width: 50px" src="assets/img/jquery.png" />
+    <img alt="PHP" style="margin-right:20px; width: 50px" src="assets/img/php.png" />
+    <img alt="MySql" style="margin-right:20px; width: 50px" src="assets/img/mysql.png" />
 </div>
 
 ### 🛠 Other tools I work with frequently:
-<img alt="React" width="26px" style="margin-right:20px;" aling="left" src="assets/img/react.png" />
-<img alt="Electron JS" width="26px" style="margin-right:20px;" aling="left" src="assets/img/electronjs.png" />
-<img alt="Python" width="26px" style="margin-right:20px;" aling="left" src="assets/img/python.png" />
-<img alt="Flask" width="26px" style="margin-right:20px;" aling="left" src="assets/img/flask.png" />
-<img alt="CodeIgniter" width="26px" style="margin-right:20px;" aling="left" src="assets/img/codeigniter.png" />
-<img alt="Laravel" width="26px" style="margin-right:20px;" aling="left" src="assets/img/laravel.png" />
-<img alt="MongoDB" width="26px" style="margin-right:20px;" aling="left" src="assets/img/mongodb.png" />
-<img alt="SQLite" width="26px" style="margin-right:20px;" aling="left" src="assets/img/sqlite.png" />
-<img alt="C" width="26px" style="margin-right:20px;" aling="left" src="assets/img/c.png" />
+<img alt="React" style="margin-right:20px; width: 50px" src="assets/img/react.png" />
+<img alt="Electron JS" style="margin-right:20px; width: 50px" src="assets/img/electronjs.png" />
+<img alt="Python" style="margin-right:20px; width: 50px" src="assets/img/python.png" />
+<img alt="Flask" style="margin-right:20px; width: 50px" src="assets/img/flask.png" />
+<img alt="CodeIgniter" style="margin-right:20px; width: 50px" src="assets/img/codeigniter.png" />
+<img alt="Laravel" style="margin-right:20px; width: 50px" src="assets/img/laravel.png" />
+<img alt="MongoDB" style="margin-right:20px; width: 50px" src="assets/img/mongodb.png" />
+<img alt="SQLite" style="margin-right:20px; width: 50px" src="assets/img/sqlite.png" />
+<img alt="C" style="margin-right:20px; width: 50px" src="assets/img/c.png" />
 
 ### 🤖 HW tools that I love:
-<img alt="Raspberry Pi" width="26px" style="margin-right:20px;" aling="left" src="assets/img/raspoberrypi.png" />
-<img alt="Arduino" width="26px" style="margin-right:20px;" aling="left" src="assets/img/arduino.png" />
+<img alt="Raspberry Pi" style="margin-right:20px; width: 50px" src="assets/img/raspoberrypi.png" />
+<img alt="Arduino" style="margin-right:20px; width: 50px" src="assets/img/arduino.png" />
 
 ### 🌍 Find me on the web:
 - You can find my full portfolio (Italian) on [Arkastech](https://arkastech.it/portfolio/)
