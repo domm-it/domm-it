@@ -1,0 +1,55 @@
+
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		
+
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      /* Google Fonts */
+      @import url(https://fonts.googleapis.com/css2?family=Share+Tech+Mono);
+
+      .container {
+        overflow: hidden;
+        color: rgba(255,255,255,.75);
+        font-family: 'Share Tech Mono', monospace;  
+        background: #23272d;
+        /*background: linear-gradient(180deg, rgba(25,25,25,1) 0%, rgba(25,25,25,1) 85%, rgba(25,25,25,0) 100%);*/
+
+        width: 800px;
+        height: 150px;
+
+        display: flex;
+        justify-content: center;
+        align-items:center;
+      }
+      .line-1{
+          width: 24em;
+          margin: 0 auto;
+          border-right: 2px solid rgba(255,255,255,.75);
+          font-size: 180%;
+          text-align: center;
+          white-space: nowrap;
+          overflow: hidden;
+      }
+
+      /* Animation */
+      .anim-typewriter{
+        animation: typewriter 2s steps(22) 0.5s 1 normal both,
+                  blinkTextCursor 750ms steps(10) infinite normal;
+      }
+      @keyframes typewriter{
+        from{width: 0;}
+        to{width: 530px;}
+      }
+      @keyframes blinkTextCursor{
+        from{border-right-color: #00D700;}
+        to{border-right-color: transparent;}
+      }
+    </style>
+    <div class="container">
+      <p class="line-1 anim-typewriter">Hey 👋🏻 I'm Domm, nice to see you!</p>
+    </div>
+  </div>
+
+	</foreignObject>
+</svg>
