@@ -32,7 +32,7 @@ Currently working on [arkastech](https://arkastech.it/) and [dplace](https://dpl
 
 ### 🤖 HW tools that I love:
 <div style="display:flex">
-    <img alt="Raspberry Pi" style="margin-right:20px; width: 80px" src="assets/img/raspoberrypi.png" />
+    <img alt="Raspberry Pi" style="margin-right:20px; width: 80px" src="assets/img/raspberrypi.png" />
     <img alt="Arduino" style="margin-right:20px; width: 80px" src="assets/img/arduino.png" />
 </div>
 
