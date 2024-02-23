@@ -16,6 +16,8 @@ Welcome to my repository! I am a Full Stack Developer with over 15+ years of exp
 - **Back-end Frameworks:**
   - Laravel
   - CodeIgniter
+- **Desktop Application Development:**
+  - Electron JS
 - **Database:** MySql, Sqlite and Couchbase
 - **CMS:** Wordpress
 - **Embedded Systems:**
