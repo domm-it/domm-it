@@ -5,25 +5,34 @@ Welcome to my repository! I am a Full Stack Developer with over 15+ years of exp
 ## ☕️ Core Skills
 
 - **Programming Languages:**
-  - Javascript
-  - PHP
+  - Javascript [Typescript]
+  - PHP (v5.6+)
   - C
 - **Front-end Technologies:**
-  - **Front-end Framework:** Angular
-  - **Library:** jQuery
-  - **Stylesheet Language:** SCSS
-  - **CSS Framework:** Bootstrap
+  - **Front-end Framework:** 
+    - Angular (12+)
+    - Ionic (5+)
+  - **Stylesheet Language:** 
+    - CSS 3
+    - SCSS
+  - **Other library:** 
+    - Bootstrap (4+)
+    - PrimeNG (12+)
+    - jQuery
 - **Back-end Frameworks:**
   - Laravel
   - CodeIgniter
 - **Desktop Application Development:**
   - Electron JS
-- **Database:** MySql, Sqlite and Couchbase
-- **CMS:** Wordpress
+- **Database:** 
+  - MySql
+  - Sqlite
+  - Couchbase
+- **CMS:** 
+  - Wordpress
 - **Embedded Systems:**
-  - Arduino
   - Raspberry Pi
-
+  - Arduino
 
 ## 💻 Experience and Background
 
