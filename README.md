@@ -15,17 +15,20 @@ Welcome to my repository! I am a Full Stack Developer with over 15+ years of exp
   - **Stylesheet Language:** 
     - CSS 3
     - SCSS
+    - Tailwind CSS
   - **Other library:** 
     - Bootstrap (4+)
     - PrimeNG (12+)
     - jQuery
 - **Back-end Frameworks:**
+  - NestJS
   - Laravel
   - CodeIgniter
 - **Desktop Application Development:**
   - Electron JS
 - **Database:** 
   - MySql
+  - MSSql
   - Sqlite
   - Couchbase
 - **CMS:** 
